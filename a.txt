@@ -1,2 +1,2 @@
 Here will go my translations.
-hello world
+Hello, world!
